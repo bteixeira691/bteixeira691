@@ -3,14 +3,14 @@ I am a software engineer from Portugal
 - 🔭 Working on multiple backend project using .Net 
 - 🌱 Learning architecture
 <br>
-## Connect with me
+##Connect
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bernardo-teixeira-031076167)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@bernardo.teixeira.691)
 
 <br>
 <br>
-## Expertise
+##Expertise
 
 <img align="left" alt=".net" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img align="left" alt="azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
