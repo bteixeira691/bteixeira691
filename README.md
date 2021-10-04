@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on [https://medium.com/@bernardo.teixeira.691](https://medium.com/@bernardo.teixeira.691)
 
 
-### Blogs posts
+### :notebook: Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to use Polly, Refit and .Net 5](https://medium.com/geekculture/how-to-use-polly-refit-and-net-5-c15d492678f4?source=rss-9c3efd506361------2)
 - [Automation with Cake C#](https://medium.com/geekculture/automation-with-cake-c-84c4d82107ad?source=rss-9c3efd506361------2)
