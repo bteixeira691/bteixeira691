@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Bernardo Teixeira</h1>
-<h3 align="center">A passionate Software Engineer from Portugal</h3>
+<h3 align="center">RedPanda is life</h3>
 
 - 🔭 I’m currently working on [EventBus](https://github.com/bteixeira691/EventBus)
 
