@@ -10,11 +10,11 @@
 
 ### :notebook: Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Architecture using C# API Versioning](https://medium.com/geekculture/clean-architecture-using-c-api-versioning-128559de808f?source=rss-9c3efd506361------2)
 - [How to use Polly, Refit and .Net 5](https://medium.com/geekculture/how-to-use-polly-refit-and-net-5-c15d492678f4?source=rss-9c3efd506361------2)
 - [Automation with Cake C#](https://medium.com/geekculture/automation-with-cake-c-84c4d82107ad?source=rss-9c3efd506361------2)
 - [Performance tests with .Net 5, BenchmarkDotNet and Bogus](https://medium.com/geekculture/performance-tests-with-net-5-benchmarkdotnet-and-bogus-464df2ec8117?source=rss-9c3efd506361------2)
 - [How to send massive messages with any MessageQueue and .Net](https://bernardo-teixeira-691.medium.com/how-to-send-massive-messages-with-any-messagequeue-and-net-331290bd3f99?source=rss-9c3efd506361------2)
-- [How to use startup.cs with Clean Architecture](https://bernardo-teixeira-691.medium.com/how-to-use-startup-cs-with-clean-architecture-4c5f8cd9edd4?source=rss-9c3efd506361------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
