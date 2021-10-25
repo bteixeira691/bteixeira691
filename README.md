@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Bernardo Teixeira</h1>
 <h3 align="center">RedPanda is life</h3>
 
-- 🔭 I’m currently working on [EventBus](https://github.com/bteixeira691/EventBus)
+- 🔭 I’m currently working on [ApolloBus](https://github.com/bteixeira691/ApolloBus)
 
 - 🌱 I’m currently learning **Archicture**
 
