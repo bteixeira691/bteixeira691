@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Archicture**
 
-- 📝 I regularly write articles on [bernardo-teixeira-691.medium.com](bernardo-teixeira-691.medium.com)
+- 📝 I regularly write articles on [bernardo-teixeira-691.medium.com](https://bernardo-teixeira-691.medium.com/)
 
 
 ### :notebook: Blogs posts
