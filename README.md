@@ -10,11 +10,11 @@
 
 ### :notebook: Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [VisualStudio 2022 with NDepend](https://medium.com/geekculture/visualstudio-2022-with-ndepend-4c12f100f933?source=rss-9c3efd506361------2)
 - [ApolloBus + .Net 5 + Kafka + Docker](https://medium.com/geekculture/apollobus-net-5-kafka-docker-1c56c858a220?source=rss-9c3efd506361------2)
 - [ApolloBus + .net5 + ServiceBus Azure](https://medium.com/geekculture/apollobus-net5-servicebus-azure-d261da5839f8?source=rss-9c3efd506361------2)
 - [Having Dylan Beattie as a mentor](https://bernardo-teixeira-691.medium.com/having-dylan-beattie-as-a-mentor-9b30cc7983c0?source=rss-9c3efd506361------2)
 - [Clean Architecture using C# API Versioning](https://medium.com/geekculture/clean-architecture-using-c-api-versioning-128559de808f?source=rss-9c3efd506361------2)
-- [How to use Polly, Refit and .Net 5](https://medium.com/geekculture/how-to-use-polly-refit-and-net-5-c15d492678f4?source=rss-9c3efd506361------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
