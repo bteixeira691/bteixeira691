@@ -10,11 +10,11 @@
 
 ### :notebook: Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Handling exceptions globally .Net6](https://medium.com/geekculture/handling-exceptions-globally-net6-22b95cfbe316?source=rss-9c3efd506361------2)
 - [Swagger with Bearer Token .Net6](https://medium.com/geekculture/swagger-with-bearer-token-net6-b4ca5a8274b1?source=rss-9c3efd506361------2)
 - [Run code once the application starts in .Net6](https://medium.com/geekculture/run-code-once-the-application-starts-in-net6-2e4e965ddcec?source=rss-9c3efd506361------2)
 - [Multi-Language with .Net 6](https://medium.com/geekculture/multi-language-with-net-6-3dd214ea01fb?source=rss-9c3efd506361------2)
 - [Easy Validation in .Net6](https://medium.com/geekculture/easy-validation-in-net6-7bb33ad4b6b3?source=rss-9c3efd506361------2)
-- [.NET6 Dependency Injection — One Interface, Multiple Implementations](https://medium.com/geekculture/net6-dependency-injection-one-interface-multiple-implementations-983d490e5014?source=rss-9c3efd506361------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
