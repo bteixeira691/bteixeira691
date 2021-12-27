@@ -10,11 +10,11 @@
 
 ### :notebook: Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use the IEquatable &lt;&gt;— .Equals&lpar;&rpar; .Net6](https://medium.com/geekculture/how-to-use-the-iequatable-equals-net6-85deee760e21?source=rss-9c3efd506361------2)
 - [Refit with Bearer Token and .Net6](https://medium.com/geekculture/refit-with-bearer-token-and-net6-2d074e37f8d5?source=rss-9c3efd506361------2)
 - [EditorConfig VisualStudio 2022](https://medium.com/geekculture/editorconfig-visualstudio-2022-c72bf535e060?source=rss-9c3efd506361------2)
 - [Using K6 tests + Docker + Reports](https://medium.com/geekculture/using-k6-tests-docker-reports-53366512b5c5?source=rss-9c3efd506361------2)
 - [Handling exceptions globally .Net6](https://medium.com/geekculture/handling-exceptions-globally-net6-22b95cfbe316?source=rss-9c3efd506361------2)
-- [Swagger with Bearer Token .Net6](https://medium.com/geekculture/swagger-with-bearer-token-net6-b4ca5a8274b1?source=rss-9c3efd506361------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
