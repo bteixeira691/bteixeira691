@@ -10,11 +10,11 @@
 
 ### :notebook: Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a CLI tool with .Net6](https://medium.com/geekculture/create-a-cli-tool-with-net6-94c03ad3e474?source=rss-9c3efd506361------2)
 - [Using the “smart” Using keyword C#](https://medium.com/geekculture/using-the-smart-using-keyword-c-715858d800b2?source=rss-9c3efd506361------2)
 - [How to use the IEquatable &lt;&gt;— .Equals&lpar;&rpar; .Net6](https://medium.com/geekculture/how-to-use-the-iequatable-equals-net6-85deee760e21?source=rss-9c3efd506361------2)
 - [Refit with Bearer Token and .Net6](https://medium.com/geekculture/refit-with-bearer-token-and-net6-2d074e37f8d5?source=rss-9c3efd506361------2)
 - [EditorConfig VisualStudio 2022](https://medium.com/geekculture/editorconfig-visualstudio-2022-c72bf535e060?source=rss-9c3efd506361------2)
-- [Using K6 tests + Docker + Reports](https://medium.com/geekculture/using-k6-tests-docker-reports-53366512b5c5?source=rss-9c3efd506361------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
