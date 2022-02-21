@@ -10,11 +10,11 @@
 
 ### :notebook: Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET 6 + Tests Coverge with Coverlet](https://medium.com/geekculture/net-6-tests-coverge-with-coverlet-b6fe2605ee19?source=rss-9c3efd506361------2)
 - [Build your environment with Cake 2.0 and Docker](https://medium.com/geekculture/build-your-environment-with-cake-2-0-and-docker-25b7646913e7?source=rss-9c3efd506361------2)
 - [Integration Test with Docker and .Net6](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd?source=rss-9c3efd506361------2)
 - [Create a CLI tool with .Net6](https://medium.com/geekculture/create-a-cli-tool-with-net6-94c03ad3e474?source=rss-9c3efd506361------2)
 - [Using the “smart” Using keyword C#](https://medium.com/geekculture/using-the-smart-using-keyword-c-715858d800b2?source=rss-9c3efd506361------2)
-- [How to use the IEquatable &lt;&gt;— .Equals&lpar;&rpar; .Net6](https://medium.com/geekculture/how-to-use-the-iequatable-equals-net6-85deee760e21?source=rss-9c3efd506361------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
